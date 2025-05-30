@@ -1,2 +1,2 @@
 # learngit
-I am for git training
+I am here for git training
